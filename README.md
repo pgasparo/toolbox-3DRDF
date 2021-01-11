@@ -8,7 +8,7 @@ atomistic simulations. This code is adapted from
 the additional feature of computing pair-specific 3D Radial Distribution Functions (3DRDF)
 as described in [Gasparotto et al.](https://pubs.acs.org/doi/abs/10.1021/acs.jctc.5b01138)
 
-To actrivate the computation of 3DRDFs use the flag `-wdens`{:.ruby}. Check the help
+To actrivate the computation of 3DRDFs use the flag `-wdens`. Check the help
 for more informations.
 
 Compilation and dependencies
